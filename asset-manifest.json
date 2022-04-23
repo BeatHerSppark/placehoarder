@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/placehoarder/static/css/main.59851a23.chunk.css",
+    "main.js": "/placehoarder/static/js/main.47533124.chunk.js",
+    "main.js.map": "/placehoarder/static/js/main.47533124.chunk.js.map",
+    "runtime-main.js": "/placehoarder/static/js/runtime-main.6b3b15a9.js",
+    "runtime-main.js.map": "/placehoarder/static/js/runtime-main.6b3b15a9.js.map",
+    "static/js/2.b589d82b.chunk.js": "/placehoarder/static/js/2.b589d82b.chunk.js",
+    "static/js/2.b589d82b.chunk.js.map": "/placehoarder/static/js/2.b589d82b.chunk.js.map",
+    "index.html": "/placehoarder/index.html",
+    "precache-manifest.2a5a9e9f987473b2b96b1d8446ae3f3f.js": "/placehoarder/precache-manifest.2a5a9e9f987473b2b96b1d8446ae3f3f.js",
+    "service-worker.js": "/placehoarder/service-worker.js",
+    "static/css/main.59851a23.chunk.css.map": "/placehoarder/static/css/main.59851a23.chunk.css.map",
+    "static/js/2.b589d82b.chunk.js.LICENSE.txt": "/placehoarder/static/js/2.b589d82b.chunk.js.LICENSE.txt",
+    "static/media/memories-Logo.png": "/placehoarder/static/media/memories-Logo.4b9dc077.png",
+    "static/media/memories-Text.png": "/placehoarder/static/media/memories-Text.18ebdb6d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b3b15a9.js",
+    "static/js/2.b589d82b.chunk.js",
+    "static/css/main.59851a23.chunk.css",
+    "static/js/main.47533124.chunk.js"
+  ]
+}
